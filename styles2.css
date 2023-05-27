@@ -1,5 +1,5 @@
 section {
-  height: 400px;
+  height: 620px;
   margin-left: 5%;
   margin-top: 2.5%;
 }
@@ -7,7 +7,7 @@ section {
 .collapsible {
   background-color: #cfcfcf;
   color: rgb(75, 75, 192);
-  font-weight: 400;
+  font-weight: 600;
   cursor: pointer;
   padding: 18px;
   width: 60%;
